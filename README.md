@@ -4,7 +4,7 @@
 
 Pure-local, offline-first lure fishing tackle manager. Builds to a single HTML file — double-click to run, data stays in IndexedDB. No server, no sign-up.
 
-# 🚀[点击这里直接使用](https://bashdeban@github.io/mylure/)
+# 🚀[点击这里直接使用](https://bashdeban.github.io/mylure/)
 ---
 
 ## 中文
